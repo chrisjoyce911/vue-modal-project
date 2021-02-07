@@ -1,4 +1,8 @@
-# modal-project
+# Learning somethingthing about Vue 
+
+## modal-project 
+
+Slowley gaining understanding about Vue.js
 
 ## Project setup
 ```
